@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	bab4.ByteRun()
+	bab4.ByteRune()
 }
